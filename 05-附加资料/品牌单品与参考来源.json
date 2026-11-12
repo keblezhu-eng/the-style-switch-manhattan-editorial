@@ -1,0 +1,60 @@
+{
+  "核查日期": "2026-11-12",
+  "说明": "本期是AI视觉创作，真实单品作为搭配线索；未核实归属的大衣、西装等不虚构品牌或SKU，不承诺在售、最新爆款或商业合作。",
+  "来源": [
+    {
+      "品牌": "Schiaparelli",
+      "单品": "Face Bag",
+      "对应": "02，黑色人脸金色五金包",
+      "官网": "https://schiaparelli.com/en/collections/lanatomie",
+      "口径": "官方系列列有该款；生成图为视觉演绎，不承诺五金与工艺逐项一致"
+    },
+    {
+      "品牌": "Jacquemus",
+      "单品": "Le grand Confetti",
+      "对应": "03，黑色70厘米平檐羊毛毡帽",
+      "官网": "https://www.jacquemus.com/fr_fr/le-grand-confetti/ACW00775AW00973990.html",
+      "款号": "ACW00775AW00973990"
+    },
+    {
+      "品牌": "Thom Browne",
+      "单品": "4-Bar pleated wool skirt",
+      "对应": "04，灰色四条纹百褶裙",
+      "官网": "https://www.thombrowne.com/collections/womens-skirts",
+      "商品证据": "https://www.net-a-porter.com/en-sa/shop/product/thom-browne/clothing/midi/pleated-4-bar-woven-wool-midi-skirt/46376663163185820"
+    },
+    {
+      "品牌": "Alaïa",
+      "单品": "Le Cœur small leather bag",
+      "对应": "05，小号红心皮革包",
+      "官网": "https://www.maison-alaia.com/fr-fr/product/petite-maroquinerie/sac-le-coeur-small-en-cuir-AA1P043C0Y75331.html",
+      "款号": "AA1P043C0Y75331"
+    },
+    {
+      "品牌": "Christian Louboutin",
+      "单品": "Kate 100 patent calf leather pumps",
+      "对应": "01，黑色漆皮红底尖头鞋",
+      "官网": "https://us.christianlouboutin.com/us_en/kate-black-3191411bk01.html",
+      "款号": "3191411BK01"
+    },
+    {
+      "品牌": "Valentino Garavani",
+      "单品": "Patent Rockstud Caged Pump 100mm",
+      "对应": "06，铆钉绑带尖头鞋",
+      "官网": "https://www.valentino.com/en-us/women/shoes/pumps/black"
+    },
+    {
+      "品牌": "CH Carolina Herrera",
+      "单品": "Taffeta Long Skirt, Black/Ivory",
+      "对应": "06，黑白大花塔夫绸裙的设计线索",
+      "官网": "https://chcarolinaherrera.com/us/en/item/taffeta-long-skirt-black-ivory",
+      "款号": "62CM491100181",
+      "口径": "官方有黑白塔夫绸长裙；生成花纹与面料表现为艺术演绎，不冒称精确商品图"
+    },
+    {
+      "资料": "Vogue Runway Spring 2027",
+      "官网": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear",
+      "口径": "仅作时装编辑调研，不将这些自创组合冒称2027实拍秀款"
+    }
+  ]
+}

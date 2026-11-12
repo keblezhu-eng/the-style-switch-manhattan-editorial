@@ -1,0 +1,38 @@
+{
+  "结论": "这组六套不是全套真实SKU搭配，不符合全部采用真实商品的严格交付标准。",
+  "可核实款号的设计参考": [
+    {
+      "对应": "01鞋",
+      "品牌": "Christian Louboutin",
+      "款名": "Kate 100 black patent calf leather",
+      "款号": "3191411BK01"
+    },
+    {
+      "对应": "03帽子",
+      "品牌": "Jacquemus",
+      "款名": "Le grand Confetti black felt hat",
+      "款号": "ACW00775AW00973990"
+    },
+    {
+      "对应": "05包",
+      "品牌": "Alaïa",
+      "款名": "Le Cœur small leather bag",
+      "款号": "AA1P043C0Y75331"
+    },
+    {
+      "对应": "06裙设计线索",
+      "品牌": "CH Carolina Herrera",
+      "款名": "Taffeta Long Skirt black/ivory",
+      "款号": "62CM491100181",
+      "限制": "不能将生成花纹认定为该商品精确复刻"
+    }
+  ],
+  "仅核实款系或名称": [
+    "02 Schiaparelli Face Bag",
+    "04 Thom Browne 4-Bar pleated wool skirt",
+    "06 Valentino Garavani Rockstud Caged Pump"
+  ],
+  "未核实为真实SKU": "01玫红大裙、白衬衫、黑大衣；02西装套装；03象牙白大衣、针织、裤装、小黑包；04西装、衬衫、靴子；05钴蓝大衣、黑色内搭和裤装；06披风、上衣与手拿包，以及未列明配饰。",
+  "图像限制": "有真实款号也仅证明该商品存在，生成图细节没有逐项对照商品图，不作实物或购物识别保证。",
+  "日期": "2026-11-12"
+}
